@@ -24,7 +24,7 @@ body{
 .month.active {
     display: block;
     margin: 0 auto;
-    width: 300px;
+    width: 600px;
     background: #fff;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -57,11 +57,11 @@ body{
     border: 1px solid #ddd;
 }
 
-.days div:hover {
+/* .days div:hover {
     background: #0078d7;
     color: white;
     cursor: pointer;
-}
+} */
 
 .days .empty {
     background: none;
